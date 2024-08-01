@@ -1,4 +1,5 @@
 # 기본계산기
+# 깃허브 연동 테스트: py 수정 후 커밋
 def add(a, b):
 	return a+b
 
