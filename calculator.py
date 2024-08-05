@@ -12,5 +12,5 @@ def multiply(a, b):
 def divide_new(a, b):
 	return a/b
 
-def power(a, b):
+def power_new(a, b):
 	return a**b
